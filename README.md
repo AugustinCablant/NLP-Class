@@ -6,11 +6,13 @@ This repository contains the work and project for the NLP course at ENSAE Paris,
 
 The course is divided into practical work (TP) sessions and a final project. Below is the organization of the repository:
 
+```plaintext
+
 ├── TP1 
 ├── TP2 
 ├── TP3 
-├── TP4
-
+└── TP4
+```
 
 Each folder (`TP1`, `TP2`, `TP3`, `TP4`) contains the work and exercises related to the corresponding practical work session. Each TP includes coding exercises, experiments, and discussions relevant to the NLP topics covered.
 
