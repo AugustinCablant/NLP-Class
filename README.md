@@ -10,8 +10,9 @@ The course is divided into practical work (TP) sessions and a final project. Bel
 
 ├── TP1 
 ├── TP2 
-├── TP3 
-└── TP4
+├── TP3
+├── TP4 
+└── PROJECT
 ```
 
 Each folder (`TP1`, `TP2`, `TP3`, `TP4`) contains the work and exercises related to the corresponding practical work session. Each TP includes coding exercises, experiments, and discussions relevant to the NLP topics covered.
