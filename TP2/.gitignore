@@ -1,4 +1,7 @@
 Embeddings_2004.ipynb
+data
 data/collobert_embeddings.txt.zip
 data/collobert_embeddings.txt
 data/collobert_words.lst
+data/frWac_non_lem_no_postag_no_phrase_200_cbow_cut100.txt
+data/frWac_non_lem_no_postag_no_phrase_200_cbow_cut100.bin
