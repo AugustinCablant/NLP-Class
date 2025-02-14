@@ -62,7 +62,7 @@ Both the **code** and the **PDF** version of the article should be uploaded to a
 - **Instructor**: Christopher Kermovant  
 - **Supervisor**: Houri Yasmine  
 
-If you have any questions regarding the course or the project, feel free to contact us via email.
+If you have any questions regarding the course or the project, feel free to contact me via email : augustin.cablant@ensae.fr
 
 ---
 
