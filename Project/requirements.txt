@@ -7,3 +7,4 @@ IPython==8.25.0
 matplotlib==3.9.0
 wordcloud==1.9.4
 nltk==3.9.1
+transformers==4.49.0
