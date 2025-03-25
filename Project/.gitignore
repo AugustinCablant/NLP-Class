@@ -1,1 +1,3 @@
-data
+Project/data
+Project/trained_model.pth
+Project/poeticagpt-quantized-new.pth
